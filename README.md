@@ -1,10 +1,28 @@
 # Yii Nik
 
-`@itsyiinik` · backend · APIs · realtime
+*somewhere between code and ideas.*
 
-- **Code** — TypeScript, JavaScript, Node.js, NestJS, RxJS
-- **Data** — PostgreSQL, MongoDB, Redis, TypeORM, S3
-- **Events** — Kafka, RabbitMQ, WebSocket, SSE
-- **Tools** — Docker, Kubernetes, Git, GitLab CI/CD, Jest
-- **Observability** — Prometheus, Grafana, Loki
+```text
+yii@github ~ $ cat stack
+
+runtime   TypeScript / Node.js / NestJS
+data      PostgreSQL / MongoDB / Redis
+events    Kafka / RabbitMQ / WebSocket
+infra     Docker / Kubernetes
+```
+
+<details>
+<summary>more tools</summary>
+
+- **Code** — JavaScript, Express, RxJS
+- **Data** — TypeORM, S3 / MinIO
+- **APIs** — REST, SSE, Socket.IO, OpenAPI / Swagger
+- **Quality** — Jest, SuperTest
+- **Ops** — Git, GitLab CI/CD, Prometheus, Grafana, Loki
 - **AI** — Claude Code, MCP
+
+</details>
+
+---
+
+<sub>@itsyiinik · backend / APIs / realtime</sub>
